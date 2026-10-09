@@ -1,0 +1,6 @@
+{
+  "name": "CardioPredict ML - Heart Disease Prediction & VS Code Studio",
+  "description": "Interactive clinical risk assessment system and machine learning laboratory workbench for coronary artery disease detection with full VS Code troubleshooting diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
